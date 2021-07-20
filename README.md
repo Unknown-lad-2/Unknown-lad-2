@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [React Projects](https://github.com/Unknown-lad-2/ReactJSProjects)
 
-- 🌱 I’m currently learning **React Js and Redux**
+- 🌱 I’m currently learning **React JS and DJANGO 🙂**
 
 - 💬 Ask me about **Javascript**
 
