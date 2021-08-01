@@ -1,5 +1,9 @@
+<p align="center"> 
+    <img src='https://64.media.tumblr.com/0ca2a8a5accc1a84371b6241a78d1154/a61476a71f956d3b-61/s1280x1920/aafb55e2617d5fa88fed0f88105f5bdef2bbce51.jpg' width='200px' style="border-radius: 50%;">
+</p>
+
 <h1 align="center">Hi 👋, I'm SOUIVK ACHARYA</h1>
-<h3 align="center">A passionate frontend Web developer</h3>
+<h3 align="center">A passionate Web developer and A Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unknown-lad-2&label=Profile%20views&color=0e75b6&style=flat" alt="unknown-lad-2" /> </p>
 
