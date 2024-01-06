@@ -1,8 +1,6 @@
 <p align="center"> 
-    <img src='https://itsastampede615821596.files.wordpress.com/2021/01/how-many-brendan-fraser-mummy-movies-are-there.jpg' width='400px' style="border-radius: 100%;">
+    <img src='https://geographical.co.uk/wp-content/uploads/panda1200-1.jpg' width='400px' style="border-radius: 100%;">
 </p>
 
-<h1 align="center">Hi 👋, I am that guy from the mummy in 90s </h1>
-<h3 align="center">Having fun time in DC universe </h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=unknown-lad-2&label=Profile%20views&color=0e75b6&style=flat" alt="unknown-lad-2" /> </p>
+<h1 align="center">Hi 👋, I am Passionate coder with a love for red pandas</h1>
+<h3 align="center">Turning caffeine into code and dreaming of a world where bugs are as rare as these adorable creatures</h3>
